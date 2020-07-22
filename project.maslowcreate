@@ -1,0 +1,20 @@
+{
+    "atomType": "Molecule",
+    "name": "Test dxf",
+    "x": 0,
+    "y": 0,
+    "uniqueID": 297482,
+    "ioValues": [],
+    "topLevel": true,
+    "allAtoms": [
+        {
+            "atomType": "Output",
+            "name": "Output",
+            "x": 0.9880952380952381,
+            "y": 0.5,
+            "ioValues": []
+        }
+    ],
+    "allConnectors": [],
+    "fileTypeVersion": 1
+}
