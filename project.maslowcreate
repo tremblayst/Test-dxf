@@ -8,6 +8,22 @@
     "topLevel": true,
     "allAtoms": [
         {
+            "atomType": "Svg",
+            "name": "Svg",
+            "x": 0.300087489063867,
+            "y": 0.3791208791208791,
+            "uniqueID": 237800,
+            "ioValues": []
+        },
+        {
+            "atomType": "Svg",
+            "name": "Svg",
+            "x": 0.2694663167104112,
+            "y": 0.5769230769230769,
+            "uniqueID": 873716,
+            "ioValues": []
+        },
+        {
             "atomType": "Output",
             "name": "Output",
             "x": 0.9880952380952381,
@@ -16,5 +32,7 @@
         }
     ],
     "allConnectors": [],
-    "fileTypeVersion": 1
+    "fileTypeVersion": 1,
+    "filetypeVersion": 1,
+    "circleSegmentSize": 2
 }
